@@ -334,7 +334,7 @@
   -webkit-transform: translate(-50%, calc(-50% + 20px));
           transform: translate(-50%, calc(-50% + 20px));
   color: white;
-  font-size: 25px;
+  font-size: 50px;
   z-index: 2;
   opacity: 0;
   -webkit-transition: opacity 0.3s ease 1s, -webkit-transform 0.3s ease 1s;
@@ -1037,7 +1037,7 @@ img {
 }
 
 .purple {
-  color: #904669;
+  color: #0abaf0;
 }
 
 #main-content {
@@ -1263,7 +1263,7 @@ main {
 }
 
 .logo__world {
-  color: #904669;
+  color: #0abaf0;
 }
 
 .footer {

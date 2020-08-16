@@ -48,11 +48,12 @@
     left: 50%;
     transform: translate(-50%, calc(-50% + 20px));
     color: $cWhite;
-    font-size: 25px;
+    font-size: 50px;
     z-index: 2;
     opacity: 0;
     transition: opacity 0.3s ease 1s, transform 0.3s ease 1s;
   }
+  
 
   &__footer {
     position: absolute;
